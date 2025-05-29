@@ -3,7 +3,7 @@ My name is Logan Boswell and I'm currently an MS in Robotics student at Northwes
 
 - Experienced with ROS/ROS2, MoveIt, Nav2, RVIZ, Gazebo, and OpenCV for developing and simulating robotic systems.  
 - Proficient in designing and implementing control systems, working with embedded platforms, and integrating sensors and actuators.  
-- Skilled in C++, Python, and C, with experience using Bash, Java, MATLAB/Simulink, and LabVIEW for prototyping and development.
+- Skilled in C++, Python, and Embedded C, with experience using Bash, Java, MATLAB/Simulink, and LabVIEW for prototyping and development.
 - Hands-on experience with SolidWorks, Siemens NX, Inventor, and Onshape for mechanical design, as well as EAGLE for PCB design. Experienced in rapid prototyping, soldering, and designing mechatronic systems.  
 
 Check out my projects using the links below!

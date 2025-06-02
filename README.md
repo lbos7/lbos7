@@ -1,4 +1,3 @@
-## Hi there 👋
 My name is Logan Boswell and I'm currently an MS in Robotics student at Northwestern University. Prior to starting at Northwestern, I received a BS in Mechanical Engineering with a concentration in automation and robotics from the Georgia Institute of Technology.
 
 - Experienced with ROS/ROS2, MoveIt, Nav2, RVIZ, Gazebo, and OpenCV for developing and simulating robotic systems.  

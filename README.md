@@ -1,4 +1,4 @@
-My name is Logan Boswell and I'm currently an MS in Robotics student at Northwestern University. Prior to starting at Northwestern, I received a BS in Mechanical Engineering with a concentration in automation and robotics from the Georgia Institute of Technology.
+My name is Logan Boswell and I'm currently working as a Robotics Engineer at Southwest Research Institute. Prior to starting this role, I earned an MS in Robotics at Northwestern University and a BS in Mechanical Engineering with a concentration in automation and robotics from the Georgia Institute of Technology.
 
 - Experienced with ROS/ROS2, MoveIt, Nav2, RVIZ, Gazebo, and OpenCV for developing and simulating robotic systems.  
 - Proficient in designing and implementing control systems, working with embedded platforms, and integrating sensors and actuators.  

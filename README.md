@@ -9,14 +9,4 @@ Check out my projects using the links below!
 
 [Portfolio](https://lbos7.github.io) | [LinkedIn](https://www.linkedin.com/in/lbos7/)
 
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/SolidWorks-FF3333?style=flat-square&logo=solidworks&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Autodesk_Inventor-FF6700?style=flat-square&logo=Autodesk&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Siemens_NX-00B050?style=flat-square&logo=Siemens&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Onshape-1E90FF?style=flat-square&logo=Onshape&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/EAGLE-FF8800?style=flat-square&logo=Autodesk&logoColor=white" height="20"/>
-
-
-
-
-
-<!--
-<div style="display: flex; flex-wrap: wrap;">
-    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharwin24&show_icons=true&locale=en&layout=compact" alt="Sharwin24" />
-</div>
--->
+ <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white" height="20"/> <img src="https://img.shields.io/badge/MATLAB-FF452F?style=flat-square&logo=Mathworks&logoColor=white" height="20"/>

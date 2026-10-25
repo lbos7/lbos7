@@ -1,11 +1,6 @@
-My name is Logan Boswell and I'm currently working as a Robotics Engineer at Southwest Research Institute. Prior to starting this role, I earned an MS in Robotics at Northwestern University and a BS in Mechanical Engineering with a concentration in automation and robotics from the Georgia Institute of Technology.
+I'm a Robotics Engineer at Southwest Research Institute with an MS in Robotics at Northwestern University and a BS in Mechanical Engineering from the Georgia Institute of Technology, concentrating in automation and robotics.
 
-- Experienced with ROS/ROS2, MoveIt, Nav2, RVIZ, Gazebo, and OpenCV for developing and simulating robotic systems.  
-- Proficient in designing and implementing control systems, working with embedded platforms, and integrating sensors and actuators.  
-- Skilled in C++, Python, C, and Embedded C, with experience using Bash, Java, MATLAB/Simulink, and LabVIEW for prototyping and development.
-- Hands-on experience with SolidWorks, Siemens NX, Inventor, and Onshape for mechanical design, as well as EAGLE for PCB design. Experienced in rapid prototyping, soldering, and designing mechatronic systems.  
-
-Check out my projects using the links below!
+My work focuses on robotic software development using ROS 2, C++, and Python.
 
 [Portfolio](https://lbos7.github.io) | [LinkedIn](https://www.linkedin.com/in/lbos7/)
 
